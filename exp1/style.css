@@ -1,0 +1,42 @@
+/* External CSS */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f4f8;
+}
+
+header {
+    background-color: #1f3c88;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    background-color: #162447;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+.section {
+    padding: 20px;
+}
+
+.footer {
+    background-color: #1f3c88;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
